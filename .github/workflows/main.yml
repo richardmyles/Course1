@@ -9,5 +9,5 @@ jobs:
         uses: actions/checkout@v4
       # This step references the directory that contains the action.
       - name: Run Feed Generator
-        uses: richardmyles/podcast_generator@main
+        uses: richardmyles/workspaces/podcast_generator@main
         
